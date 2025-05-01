@@ -537,9 +537,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Created by [Your Name]**
+**Created by [Ajju Giri]**
 
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourusername) | [Twitter](https://twitter.com/yourusername)
+[GitHub](https://github.com/Ajjuajith14) | [LinkedIn](https://www.linkedin.com/in/ajju-giri-ab8214212/)]
 
 ---
 
